@@ -1,0 +1,52 @@
+.header{
+    background-color: rgb(180, 163, 163);
+    padding: 30px;
+    color: white;
+}
+.header h1{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    float: left;
+}
+.sidebar{
+    width: 20%;
+    float: left;
+    background-color: #ccc;
+    height: 400px;
+}
+ul{
+    list-style-type:none;
+}
+
+.mainbody{
+    width: 70%;
+    float: left;
+    padding: 5%;
+}
+.footer{
+    background-color:  rgb(180, 163, 163);
+    padding: 5%;
+    text-align: center; 
+    float: left;
+    width: 90%;
+   
+
+}
+.menu-container{}
+.logo{
+    width: 100px;
+}
+.menu{
+    list-style-type: none;
+   float: right;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    padding-left: 10px;
+    padding-right: 10px;
+}
